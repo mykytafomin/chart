@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/chart.ekspres/",
+        "image": "social/instagram.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/chart.ekspres/",
+        "image": "social/facebook.svg"
+    }
+]

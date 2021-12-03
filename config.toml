@@ -1,0 +1,40 @@
+baseURL = "https://chart-ekspres.pl"
+languageCode = "pl"
+title = "Chart Ekspres Kurierzy Rowerowi"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Kurier Miejski, Poznań. Doręczenie przesyłek i dostawy posiłków gastronomicznych na terenie Poznania."
+   
+[[menu.main]]
+	name = "Dlaczego my"
+	url = "/zalety/"
+    weight = 1
+
+[[menu.main]]
+    name = "Oferta"
+    url = "/oferta/"
+    weight = 2
+
+[[menu.main]]
+    name = "O nas"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
