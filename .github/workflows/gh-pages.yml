@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - web-page/public  # Set a branch to deploy
+      - d  # Set a branch to deploy
   pull_request:
 
 jobs:
