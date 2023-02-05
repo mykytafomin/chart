@@ -1,4 +1,4 @@
-baseURL = "https://mykytafomin.github.io/chart/"
+baseURL = "https://mykytafomin.github.io"
 languageCode = "pl"
 title = "Chart Ekspres Kurierzy Rowerowi"
 themesDir = "themes"
