@@ -11,7 +11,7 @@ thumbnail: 'oferta/kurier_miejski_poznan.png'
 ---
 
 
-Przesyłki w Centrum jedyne 13zł netto: standard do 2h (w obrębie ulic: Solna - Al. Niepodległości - Królowej Jadwigi – Garbary). Cennik na przesyłki:
+Przesyłki w Centrum jedyne 13zł netto: standard do 2h (w obrębie ulic: Solna - Al. Niepodległości - Królowej Jadwigi – Garbary). Cennik na przesyłki (od nadawcy do odbiorcy):
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
 
