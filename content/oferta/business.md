@@ -12,7 +12,8 @@ images: ['oferta/cennik_chart_ekspres.jpg']
 
 Cennik na przesyłki:
 
-
+{{<table “table table-striped table-bordered">}}
 | Poznań | do 5 km              | 5-10 km              | 10-15 km             | od 15 km do granic admin. |
 |--------|---------------------|---------------------|---------------------|---------------------------|
 | STANDARD do 4h | 22 zł netto | 26 zł netto | 30 zł netto | 34 zł netto |
+{{</table>}}
