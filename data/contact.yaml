@@ -8,16 +8,16 @@ address: |
 hours:
   - day: Poniedziałek
     open: 9:00
-    close: 22:00
+    close: 21:00
   - day: Wtorek
     open: 9:00
-    close: 22:00
+    close: 21:00
   - day: Środa
     open: 9:00
-    close: 22:00
+    close: 21:00
   - day: Czwartek
     open: 9:00
-    close: 22:00
+    close: 21:00
   - day: Piątek
     open: 9:00
     close: 22:00
